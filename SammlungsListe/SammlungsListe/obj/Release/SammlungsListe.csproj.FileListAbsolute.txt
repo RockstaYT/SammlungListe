@@ -1,0 +1,17 @@
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\bin\Release\SammlungsListe.exe.config
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\bin\Release\SammlungsListe.exe
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\bin\Release\SammlungsListe.pdb
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\bin\Release\CMApiResolve.dll
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\bin\Release\CMApiResolve.pdb
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.csprojAssemblyReference.cache
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\MainWindow.g.cs
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\App.g.cs
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe_MarkupCompile.cache
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe_MarkupCompile.lref
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\MainWindow.baml
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.g.resources
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.Properties.Resources.resources
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.csproj.GenerateResource.cache
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.csproj.CopyComplete
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.exe
+G:\Programme\C#\Cardmarket\ApiResolve\SammlungsListe\SammlungsListe\obj\Release\SammlungsListe.pdb

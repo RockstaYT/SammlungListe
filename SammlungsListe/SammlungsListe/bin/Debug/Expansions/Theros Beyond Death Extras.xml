@@ -1,0 +1,808 @@
+<ATherosBeyondDeathExtras>
+  <language>;English;French;German;Spanish;Italian</language>
+  <singleCard>
+    <enCardName>Arena Code Card (Prerelease)</enCardName>
+    <cardId>435749</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Arena Code Card (Planeswalker Deck) (Version 1)</enCardName>
+    <cardId>435734</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Arena Code Card (Planeswalker Deck) (Version 2)</enCardName>
+    <cardId>435739</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Arena Code Card (Promo Pack)</enCardName>
+    <cardId>435744</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Gold Token</enCardName>
+    <cardId>431939</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Spider Token (Green 1/2)</enCardName>
+    <cardId>431924</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Zombie Token (Black 2/2)</enCardName>
+    <cardId>431909</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Kraken Token (Blue 8/8)</enCardName>
+    <cardId>431894</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Goat Token (White 0/1)</enCardName>
+    <cardId>431879</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Wall Token (Artifact 0/4)</enCardName>
+    <cardId>431944</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Wolf Token (Green 2/2)</enCardName>
+    <cardId>431929</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Elemental Token (Red */1)</enCardName>
+    <cardId>431914</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Reflection Token (Blue 3/2)</enCardName>
+    <cardId>431899</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Human Soldier Token (White 1/1)</enCardName>
+    <cardId>431884</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nightmare Token (Blue and Black 2/3)</enCardName>
+    <cardId>431934</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Satyr Token (Red 1/1)</enCardName>
+    <cardId>431919</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Tentacle Token (Blue 1/1)</enCardName>
+    <cardId>431904</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Pegasus Token (White 2/2)</enCardName>
+    <cardId>431889</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Elspeth, Sun's Nemesis</enCardName>
+    <cardId>429021</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Ashiok, Nightmare Muse</enCardName>
+    <cardId>429016</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Calix, Destiny's Hand</enCardName>
+    <cardId>431284</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Daxos, Blessed by the Sun</enCardName>
+    <cardId>429246</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Heliod, Sun-Crowned</enCardName>
+    <cardId>430379</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Callaphe, Beloved of the Sea</enCardName>
+    <cardId>430949</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Thassa, Deep-Dwelling</enCardName>
+    <cardId>430524</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Erebos, Bleak-Hearted</enCardName>
+    <cardId>430184</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Tymaret, Chosen from Death</enCardName>
+    <cardId>430569</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Anax, Hardened in the Forge</enCardName>
+    <cardId>430954</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Purphoros, Bronze-Blooded</enCardName>
+    <cardId>430384</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nylea, Keen-Eyed</enCardName>
+    <cardId>430389</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Renata, Called to the Hunt</enCardName>
+    <cardId>430959</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Klothys, God of Destiny</enCardName>
+    <cardId>430394</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Athreos, Shroud-Veiled</enCardName>
+    <cardId>429116</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Elspeth, Undaunted Hero</enCardName>
+    <cardId>429191</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Eidolon of Inspiration</enCardName>
+    <cardId>431414</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Elspeth's Devotee</enCardName>
+    <cardId>431419</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Sunlit Hoplite</enCardName>
+    <cardId>431424</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Ashiok, Sculptor of Fears</enCardName>
+    <cardId>429186</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Swimmer in Nightmares</enCardName>
+    <cardId>431429</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Mindwrack Harpy</enCardName>
+    <cardId>431434</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Ashiok's Forerunner</enCardName>
+    <cardId>431439</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Plains (Version 1)</enCardName>
+    <cardId>429196</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Plains (Version 2)</enCardName>
+    <cardId>429201</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Island (Version 1)</enCardName>
+    <cardId>429206</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Island (Version 2)</enCardName>
+    <cardId>429211</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Swamp (Version 1)</enCardName>
+    <cardId>429216</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Swamp (Version 2)</enCardName>
+    <cardId>429221</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Mountain (Version 1)</enCardName>
+    <cardId>429226</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Mountain (Version 2)</enCardName>
+    <cardId>429231</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Forest (Version 1)</enCardName>
+    <cardId>429236</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Forest (Version 2)</enCardName>
+    <cardId>429241</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Grasping Giant</enCardName>
+    <cardId>429651</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Victory's Envoy</enCardName>
+    <cardId>429656</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Sphinx Mindbreaker</enCardName>
+    <cardId>429661</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Serpent of Yawning Depths</enCardName>
+    <cardId>429666</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Demon of Loathing</enCardName>
+    <cardId>429671</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Underworld Sentinel</enCardName>
+    <cardId>429676</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Deathbellow War Cry</enCardName>
+    <cardId>429681</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Terror of Mount Velus</enCardName>
+    <cardId>429686</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Ironscale Hydra</enCardName>
+    <cardId>429691</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Treeshaker Chimera</enCardName>
+    <cardId>429696</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Archon of Sun's Grace</enCardName>
+    <cardId>431444</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Eidolon of Obstruction</enCardName>
+    <cardId>431449</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Heliod's Intervention</enCardName>
+    <cardId>432489</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Idyllic Tutor</enCardName>
+    <cardId>430244</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Shatter the Sky</enCardName>
+    <cardId>432004</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Taranika, Akroan Veteran</enCardName>
+    <cardId>431454</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Ashiok's Erasure</enCardName>
+    <cardId>430399</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nadir Kraken</enCardName>
+    <cardId>430224</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Protean Thaumaturge</enCardName>
+    <cardId>432494</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Thassa's Intervention</enCardName>
+    <cardId>431964</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Thassa's Oracle</enCardName>
+    <cardId>431294</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Thryx, the Sudden Storm</enCardName>
+    <cardId>430964</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Wavebreak Hippocamp</enCardName>
+    <cardId>430529</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Aphemia, the Cacophony</enCardName>
+    <cardId>430404</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Eat to Extinction</enCardName>
+    <cardId>431459</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Erebos's Intervention</enCardName>
+    <cardId>430909</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Gravebreaker Lamia</enCardName>
+    <cardId>431464</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nightmare Shepherd</enCardName>
+    <cardId>431969</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Treacherous Blessing</enCardName>
+    <cardId>430204</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Woe Strider</enCardName>
+    <cardId>430409</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Ox of Agonas</enCardName>
+    <cardId>430414</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Phoenix of Ash</enCardName>
+    <cardId>431324</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Purphoros's Intervention</enCardName>
+    <cardId>430574</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Storm Herald</enCardName>
+    <cardId>430419</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Storm's Wrath</enCardName>
+    <cardId>430424</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Tectonic Giant</enCardName>
+    <cardId>431319</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Underworld Breach</enCardName>
+    <cardId>430209</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Arasta of the Endless Web</enCardName>
+    <cardId>432499</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Dryad of the Ilysian Grove</enCardName>
+    <cardId>431469</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Mantle of the Wolf</enCardName>
+    <cardId>430939</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nessian Boar</enCardName>
+    <cardId>430429</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nylea's Intervention</enCardName>
+    <cardId>430534</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nyxbloom Ancient</enCardName>
+    <cardId>431974</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Setessan Champion</enCardName>
+    <cardId>429251</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Allure of the Unknown</enCardName>
+    <cardId>430434</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Atris, Oracle of Half-Truths</enCardName>
+    <cardId>430229</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Bronzehide Lion</enCardName>
+    <cardId>431979</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Dalakos, Crafter of Wonders</enCardName>
+    <cardId>430439</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Dream Trawler</enCardName>
+    <cardId>431984</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Enigmatic Incarnation</enCardName>
+    <cardId>431474</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Gallia of the Endless Dance</enCardName>
+    <cardId>430444</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Haktos the Unscarred</enCardName>
+    <cardId>430969</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Kroxa, Titan of Death's Hunger</enCardName>
+    <cardId>431024</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Kunoros, Hound of Athreos</enCardName>
+    <cardId>430154</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Polukranos, Unchained</enCardName>
+    <cardId>430539</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Uro, Titan of Nature's Wrath</enCardName>
+    <cardId>430974</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Nyx Lotus</enCardName>
+    <cardId>430449</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Shadowspear</enCardName>
+    <cardId>431989</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Labyrinth of Skophos</enCardName>
+    <cardId>434244</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Temple of Abandon</enCardName>
+    <cardId>430129</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Temple of Deceit</enCardName>
+    <cardId>430139</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Temple of Enlightenment</enCardName>
+    <cardId>430124</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Temple of Malice</enCardName>
+    <cardId>430144</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+  <singleCard>
+    <enCardName>Temple of Plenty</enCardName>
+    <cardId>430134</cardId>
+    <priceLow />
+    <priceMid />
+    <cardCount>0</cardCount>
+  </singleCard>
+</ATherosBeyondDeathExtras>

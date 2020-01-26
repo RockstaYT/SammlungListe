@@ -1,0 +1,110 @@
+﻿<Window x:Class="SammlungsListe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SammlungsListe"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="1049" VerticalAlignment="Top" Width="1912">
+            <TabItem Header="Collection">
+                <Grid Background="#FFF">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="25*"/>
+                        <ColumnDefinition Width="25*"/>
+                        <ColumnDefinition Width="50*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox Name="CardName" Margin="50,40,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" VerticalContentAlignment="Center" Grid.Column="0" Height="35" Width="350" FontWeight="Bold" FontSize="18" materialDesign:HintAssist.Hint="Card Name"/>
+                    <ComboBox Name="Expansion" Grid.Column="0"  HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" Height="35" Width="350" Margin="50,100,0,0" IsEditable="True"  FontSize="18" materialDesign:HintAssist.Hint="Expansion">
+                        <ComboBox.ItemsSource>
+                            <Binding Path="ExpansionNames" UpdateSourceTrigger="PropertyChanged"/>
+                        </ComboBox.ItemsSource>
+                        <ComboBox.SelectedItem>
+                            <Binding Path="SelectedExpansion" UpdateSourceTrigger="PropertyChanged"/>
+                        </ComboBox.SelectedItem>
+                    </ComboBox>
+                    <Label Content="Selected expansion id:" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="50,170,0,0" FontSize="15" FontWeight="Bold" />
+                    <Label Name="ExpansionId" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Width="100" Margin="50,190,0,0">
+                        <Label.Content>
+                            <Binding Path="SelectedExpanisonId" UpdateSourceTrigger="PropertyChanged"/>
+                        </Label.Content>
+                    </Label>
+                    <Button Name="SearchCard" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Search Card" Height="35" Width="350" FontSize="18" FontWeight="Bold" Margin="50,230,0,0"/>
+
+                    <Grid Grid.Column="0">
+                        <Grid.Visibility>
+                            <Binding Path="Visibility" UpdateSourceTrigger="PropertyChanged"/>
+                        </Grid.Visibility>
+                        <ComboBox Name="Language" HorizontalAlignment="Left" VerticalAlignment="Top" Height="35" FontSize="18" FontWeight="Bold" Width="350" Margin="50,300,0,0" materialDesign:HintAssist.Hint="Language">
+                            <ComboBox.ItemsSource>
+                                <Binding Path="SelectedExpansionLanguage" UpdateSourceTrigger="PropertyChanged"/>
+                            </ComboBox.ItemsSource>
+                        </ComboBox>
+                        <Image Name="CardImage" Grid.Column="0" Stretch="Fill" Source="G:/Ayara.jpg" HorizontalAlignment="Left" VerticalAlignment="Top" Height="361" Width="255" Margin="50,370,0,0"/>
+                        <Label Content="Selected card id:" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Margin="50,770,0,0" FontSize="15" FontWeight="Bold" />
+                        <Label Name="CardId" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Width="100" Margin="50,800,0,0">
+                            <Label.Content>
+                                <Binding Path="SelectedCardId" UpdateSourceTrigger="PropertyChanged"/>
+                            </Label.Content>
+                        </Label>
+                        <Button Name="AddCard" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Add Card" Height="35" Width="350" FontSize="18" FontWeight="Bold" Margin="50,870,0,0"/>
+                        <Button Name="ExportExcel" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Export to Excel" Height="35" Width="350" FontSize="18" FontWeight="Bold" Margin="50,950,0,0"/>
+                    </Grid>
+
+                    <Grid Grid.Column="1">
+                        <Grid.Visibility>
+                            <Binding Path="Visibility" UpdateSourceTrigger="PropertyChanged"/>
+                        </Grid.Visibility>
+
+                        <Button Name="GetSingles" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Get Singles" Height="40" Width="350" FontSize="18" FontWeight="Bold" Margin="50,40,0,0">
+                            <Button.Command>
+                                <Binding Path="GetSinglesClicked" UpdateSourceTrigger="PropertyChanged"/>
+                            </Button.Command>
+                        </Button>
+                    </Grid>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Add New Expansion">
+                <Grid Background="#FFF">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="50*"/>
+                        <ColumnDefinition Width="50*"/>
+                    </Grid.ColumnDefinitions>
+
+
+
+                </Grid>
+            </TabItem>
+            <TabItem
+                Header="Update Prices">
+                <Grid Background="#FFF"/>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Console">
+                <Grid Background="#FFF">
+                    <TextBox Name="ConsoleOutput" Margin="0,0,0,0">
+                        <TextBox.Text>
+                            <Binding Path="ConsoleOutput" UpdateSourceTrigger="PropertyChanged"/>
+                        </TextBox.Text>
+                    </TextBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
